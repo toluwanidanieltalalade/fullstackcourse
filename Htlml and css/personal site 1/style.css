@@ -84,5 +84,10 @@ a:any-link{
   position: relative;
   top: 460px;
 }
-
+#spec{
+  float:left;
+}
+#pec{
+  float: right;
+}
 
